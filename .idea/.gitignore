@@ -1,3 +1,25 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
+# Maven build output
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Maven wrapper
+.mvn/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
